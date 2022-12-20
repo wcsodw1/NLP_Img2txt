@@ -9,7 +9,7 @@ The practical apply in NLP image turn to text
 - Program : 
     - [PyPDF2 CV PDF](./PYPDF2_PDF2txt.py)
     - [PyPDF2 Alibaba PDF](./PYPDF2_PDF2txt.py)
-    - [PDFMiner CV PDF](./PDFMiner__PDF2txt.py)
+    - [PDFMiner CV PDF](./PDFMiner_PDF2txt.py)
 
 - Result : 
     - [PDFMiner CV PDF Result](./data/Wizpresso/output/PDFMiner_20221129CV.txt)
