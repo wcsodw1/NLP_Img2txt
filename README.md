@@ -26,4 +26,4 @@ The practical apply in NLP image turn to text
 ### 4. Reference
 [PyPDF2 Apply](https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python) <br>
 [PDFMiner Document](https://pdfminer-docs.readthedocs.io/programming.html#performing-layout-analysis) <br>
-[PyPDF2 Document](https://ithelp.ithome.com.tw/articles/10221247)
+[PyPDF2 Extract Image](https://pypdf2.readthedocs.io/en/latest/user/extract-images.html)
