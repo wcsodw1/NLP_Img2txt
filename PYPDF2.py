@@ -3,7 +3,6 @@
 # python PYPDF2.py -f './data/Wizpresso/input/file.pdf' -o './data/Wizpresso/output/PyPDF2_file.txt'
 
 
-
 # 1.preprocess : import necessary libray and parse the argument
 import pandas
 import PyPDF2
@@ -27,6 +26,9 @@ page_num = pdf_reader.numPages  # check the number of PDF page
 
 # 3.Print PDF content and Save :
 # Print all the text from looping page :
+
+pdf_writer = PyPDF2.PdfFileWriter()
+
 for i in range(page_num):
     # a.read PDF page N information
     page_i = pdf_reader.getPage(i)
@@ -37,3 +39,8 @@ for i in range(page_num):
     # c.Save the PDF content to .txt
     with open(args["output_txt"], 'a', encoding='UTF-8') as f:
         f.write(page_i_text + "\n")
+
+    # D.Add page
+    # pdf_writer.addPage(page_i)
+    # pdf_output = open("./data/Wizpresso/output/New.pdf", "wb")
+    # pdf_writer.write(pdf_output)
