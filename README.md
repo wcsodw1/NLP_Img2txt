@@ -7,8 +7,8 @@ The practical apply in NLP image turn to text
 
 ## 2.PDF to text 
 - Program : 
-    - [PyPDF2 CV PDF](./PYPDF2_PDF2txt.py)
-    - [PyPDF2 Alibaba PDF](./PYPDF2_PDF2txt.py)
+    - [PyPDF2 CV PDF](./PyPDF2_PDF2txt.py)
+    - [PyPDF2 Alibaba PDF](./PyPDF2_PDF2txt.py)
     - [PDFMiner CV PDF](./PDFMiner_PDF2txt.py)
 
 - Result : 
@@ -19,9 +19,11 @@ The practical apply in NLP image turn to text
 ## 3.Encrypt/Decrypte PDF with customize Password
 - Program : 
     - [PyPDF2 encrypt PDF](./PyPDF2_encryptPDF.py)
+    - [PyPDF2 Decrypt PDF](./PyPDF2_DecryptPDF.py)
 
 - Result : 
-    - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Encrypt_David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Decrypt_David_CV.pdf) #Password : 820224
 
 ### 4. Reference
 - [PyPDF2 Apply](https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python) <br>
