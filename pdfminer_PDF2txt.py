@@ -1,4 +1,4 @@
-# python pdfminer_PDF2txt.py
+# python PDFMiner_PDF2txt.py
 
 ''' Purpose : Read Document(PDF) save to TXT(.txt file) '''
 
