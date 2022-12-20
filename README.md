@@ -7,7 +7,7 @@ The practical apply in NLP image turn to text
 
 ## 2.Turn to text 
 - Program : 
-    - [PDFMiner CV PDF](./PDFMiner_PDF2txt.py)
+    - [PDFMiner CV PDF](PDFMiner_PDF2txt.py)
     - [PyPDF2 CV PDF](./PYPDF2_PDF2txt.py)
     - [PyPDF2 Alibaba PDF](./PYPDF2_PDF2txt.py)
 
