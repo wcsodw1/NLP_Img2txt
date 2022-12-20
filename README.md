@@ -9,12 +9,16 @@ The practical apply in NLP image turn to text
 - Program : 
     - [PyPDF2 CV PDF](./PyPDF2_PDF2txt.py)
     - [PyPDF2 Alibaba PDF](./PyPDF2_PDF2txt.py)
-    - [PDFMiner CV PDF](./PDFMiner_PDF2txt.py)
+    - [PDFMiner CV PDF ](./PDFMiner_PDF2txt.py)
+    - [PyPDF2 CV PDF attachment](./PyPDF2_attachment.txt)
 
 - Result : 
-    - [PDFMiner CV PDF Result](./data/Wizpresso/output/PDFMiner_20221129CV.txt)
-    - [PyPDF2 CV PDF Result](./data/Wizpresso/output/PyPDF2_20221129CV.txt)
-    - [PyPDF2 Alibaba PDF Result](./data/Wizpresso/output/PyPDF2_file.txt)
+    - [PDFMiner CV PDF txt](./data/Wizpresso/output/PDFMiner_20221129CV.txt)
+    - [PyPDF2 CV PDF txt](./data/Wizpresso/output/PyPDF2_20221129CV.txt)
+    - [PyPDF2 Alibaba PDF txt](./data/Wizpresso/output/PyPDF2_file.txt)
+    - [PyPDF2 CV PDF attachment](./data/Wizpresso/output/PyPDF2_attachment.txt)
+
+
 
 ## 3.Encrypt/Decrypte PDF with customize Password
 - Program : 
