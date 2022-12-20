@@ -1,0 +1,116 @@
+Shou- Wei, Lin 
+| AI NLP |  CV | SQL |  
+Data Analyze| Backend | 
+ 
+SUMMARY  
+ 
+ AI - ML/DL, Data  Engineer  with Computer Vision, 4 years 
+professional experience in software development. Skilled in 
+Python, C++, G olang  and various Machine& deep  Learning 
+frameworks. A highly motivated individual, ready to challenge myself and quickly adapt to new environments, and to deliver best -in-class solutions to problems at hand. A strategic 
+communicator who is ready to join the organization where my expert ise will be put into action.
+  
+EXPERIENCE  
+ 
+2021- 2022 Mar Tech 
+ AdGeek | Python | Google API | Facebook API  | NLP  | 
+ AI & Data Analyze  Engineer   
+To Optimize the “Precision- marketing ” system, by using Facebook & 
+Google API get data, and using Data -Analyze, Machine Learning 
+algorithm technics to robust system predict ads condition, helping 
+keep execute  ads or not.  
+ Key Perfor mance : Increasing over 28% customer using our 
+service.  
+ Project :  
+ Data- Analyze Market -Strategy by Facebook(Meta) 
+Backstage -Data  
+------------------------------------------------------------  
+2020- 2021 Embedding -Tech  
+ AVER Tech.  | Python | C++  | CV | Deep Learning |  Caffe | Keras  | 
+ AI & Computer Vision algorithm Engineer  
+ Research and Integrate computer vision Deep -Learning Model into 
+our product(camera).Robust the product function, provide different solution proposals for the customer.   
+ Key Performance: I ncreasing  22% of sales in next season(Q3). 
+ Project :  
+ Pose- Estimated  
+ Face_Recognition  
+------------------------------------------------------------  CONTACTS 
+wcsodw1@gmail.com  
+Github  
+Linkin  
+ 
+SKILL  
+ Language  : Python |  Go | 
+C++ |  
+ DB : SQL | MySQL | 
+MariaDB |  MongoDB  | 
+ Server  : AWS (Click) 
+ Version Control :  GITHUB 
+| GITLAB  | 
+ OS : Linux | UBUNTU |  WSL  
+ Container  : Docker  
+ Front -End  : HTML | CSS | 
+Javascript | Node.js |  
+ GPU  : GTX1660 
+ Web Framework  : Flask | 
+Django  | 
+ Web Crwaler :  
+Beautiful Soup | Seledium | 
+Request |  
+ 
+AI | Data Analyze  
+ Framework  : Tensorflow  | 
+Pytorch  | Keras  | Caffe  
+ Visualize  :  
+Python  : Matplotlib | 
+Seaborn |  
+AI : ToolNetron | Netscope 
+Data : PowerBI |  
+ Python  :  
+- Pandas  | Numpy  
+Scikit- Learn | Scipy  | 
+ 
+Qualification  
+ English  : TOEIC Green 
+License  
+ GEPT  : Medium- Standard  
+ Data Analyze Expert  : 
+Udemy  Course  
+ 
+ 
+2020 Computer Graphics(CG)- Tech  
+ Reallusion  | Python | C++  | Pytorch |UBUNTU  | GPU  | 
+ AI & Intelligent animation research er (RD)  
+Paper Research AI model for  Implement on  solving man -power  
+effort  in Animation’s A uto-Rigging work  .Testing and evaluation 
+model performance and keep optimize . 
+ Key Performance : Reduce  80% man -power effort in Animation ’s 
+auto -Rigging work . 
+ Project :  Computer Graphical - Auto Rigging  
+------------------------------------------------------------  
+2017- 2019 Semi -Conductor  Tech  
+ Micron  .Corp | TEL machine Operation |  
+ Electric  Engineer  
+ Trouble Shooting  
+ Negotiate  | Co-work  
+ PM 
+ 
+EDUCATION  
+2020- 2022 | Python |  MySQL| AWS | HTML | Web -Crawler |  
+ EMBA  :NTU  
+Full- Stack  Engineer  Project :  
+ Member System Demo  
+ Taipei -Attraction website  Demo  
+------------------------------------------------------------  
+2019- 2020 | Python | Machine & Deep Learning (CV | NLP)  |  
+ Artificial Intelligent Academy (AIA)  | PyimageSearch  
+ AI - Machine& Deep Learning  | Computer Vision  
+ Project : ML & DL  
+ MLB players future Revenue predicted  
+ Mask - RCNN  : In Retina Symptom Detecting  
+------------------------------------------------------------  
+2012- 2016 | Matlab | Python  | 
+ Bachelor : CYCU(Chun -Yuan Christian University)  
+ Electronicc Engineering  
+ Project :  Swimming Gesture Recognition  
+ 

@@ -10,3 +10,5 @@ The practical apply in NLP image turn to text
 
 
 ## 2.Turn to text
+- [PDFMiner Result](./data/Wizpresso/output/20221129CV.txt)
+- [PyPDF2 Result](./data/Wizpresso/output/PyPDF2_20221129CV.txt.txt)
