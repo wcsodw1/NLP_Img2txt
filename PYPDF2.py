@@ -1,5 +1,7 @@
 
 # python PYPDF2.py -f './data/Wizpresso/input/20221129CV.pdf' -o './data/Wizpresso/output/PyPDF2_20221129CV.txt'
+# python PYPDF2.py -f './data/Wizpresso/input/file.pdf' -o './data/Wizpresso/output/PyPDF2_file.txt'
+
 
 
 # 1.preprocess : import necessary libray and parse the argument
