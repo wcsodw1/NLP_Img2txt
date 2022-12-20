@@ -14,4 +14,4 @@ The practical apply in NLP image turn to text
 - [PyPDF2 Alibaba PDF Result](./data/Wizpresso/output/PyPDF2_file.txt)
 
 ## 3.Encrypt PDF with customize Password
-- [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/David_CV.PDF) #Password : 820224
+- [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/David_CV.pdf) #Password : 820224
