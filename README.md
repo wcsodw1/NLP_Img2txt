@@ -5,7 +5,7 @@ The practical apply in NLP image turn to text
 - $pip install PyPDF2 (pip install PyPDF2[crypto] : For crypto)
 - $pip install pdfminer 
 
-## 2.Turn to text 
+## 2.PDF to text 
 - Program : 
     - [PyPDF2 CV PDF](./PYPDF2_PDF2txt.py)
     - [PyPDF2 Alibaba PDF](./PYPDF2_PDF2txt.py)
@@ -16,7 +16,7 @@ The practical apply in NLP image turn to text
     - [PyPDF2 CV PDF Result](./data/Wizpresso/output/PyPDF2_20221129CV.txt)
     - [PyPDF2 Alibaba PDF Result](./data/Wizpresso/output/PyPDF2_file.txt)
 
-## 3.Encrypt PDF with customize Password
+## 3.Encrypt/Decrypte PDF with customize Password
 - Program : 
     - [PyPDF2 encrypt PDF](./PyPDF2_encryptPDF.py)
 
