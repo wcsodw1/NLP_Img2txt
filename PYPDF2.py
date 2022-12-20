@@ -1,27 +1,37 @@
 
-# python PYPDF2.py
+# python PYPDF2.py -f './data/Wizpresso/input/20221129CV.pdf' -o './data/Wizpresso/output/PyPDF2_20221129CV.txt'
 
+
+# 1.preprocess : import necessary libray and parse the argument
 import pandas
 import PyPDF2
+import argparse
 
-#  create a reader object(f)
-f = open('./data/Wizpresso/input/20221129CV.pdf', 'rb')
-txt_path = './data/Wizpresso/output/PyPDF2_20221129CV.txt'
-# pdfFileReader() reads the text  form the pdf
+ap = argparse.ArgumentParser()
+ap.add_argument("-f", "--file_PDF", required=True,
+                help="Path to the source PDF file")
+ap.add_argument("-o", "--output_txt", required=True,
+                help="Path to save the output txt file")
+args = vars(ap.parse_args())
+
+
+# 2.Change data structure :
+f = open(args["file_PDF"], 'rb')  # create a reader object(f)
+# pdfFileReader() reads the text form the pdf
 pdf_reader = PyPDF2.PdfFileReader(f)
-page_num = pdf_reader.numPages
+page_num = pdf_reader.numPages  # check the number of PDF page
+# print(pdf_reader.isEncrypted) # check data Crypt or not(return true or false)
+# pdfReader.decrypt('rosebud') # Decrypted
 
-print(pdf_reader.isEncrypted)
-# pdfReader.decrypt('rosebud')
-
-
+# 3.Print PDF content and Save :
 # Print all the text from looping page :
 for i in range(page_num):
-    # read PDF page N information
+    # a.read PDF page N information
     page_i = pdf_reader.getPage(i)
-    # print(page_one)
 
-    # extractText() extracts the the texts in a text format of page 1
+    # b.extractText() extracts the texts in a text format from each page
     page_i_text = page_i.extractText()
-    with open(txt_path, 'a', encoding='UTF-8') as f:
+
+    # c.Save the PDF content to .txt
+    with open(args["output_txt"], 'a', encoding='UTF-8') as f:
         f.write(page_i_text + "\n")
