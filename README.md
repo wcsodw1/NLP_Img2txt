@@ -1,7 +1,7 @@
 # NLP_Img2txt
 The practical apply in NLP image turn to text
 
-## PDFMiner & PyPDF2 : 
+## 1.PDFMiner & PyPDF2 : 
 - $pip install pdfminer 
 - $pip install PyPDF2 (pip install PyPDF2[crypto] : For crypto)
 
