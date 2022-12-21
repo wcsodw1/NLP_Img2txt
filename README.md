@@ -1,4 +1,6 @@
 # NLP_Img2txt
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/drkostas/DSE512-playground/master/LICENSE)
+
 The practical apply in NLP image turn to text
 
 ![NLP](./data/NLP.jpg)
