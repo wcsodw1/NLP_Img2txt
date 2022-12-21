@@ -2,6 +2,10 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/drkostas/DSE512-playground/master/LICENSE)
 
 The practical apply in NLP image turn to text
+The vexing part about Document Parsing is that there are so many tools for different types of data (text, figures, tables) and none of them works perfectly.Here’s the current framework of the most popular packages based on the strategy one wants to follow:
+
+#### Processing documents as Text: extract text with PyPDF2, extract tables with Camelot or TabulaPy, extract figures with PyMuPDF.
+#### Converting documents into Image (OCR): conversion with pdf2image, extract data with PyTesseract plus many other supporting libraries, or just LayoutParser.
 
 ![NLP](./data/NLP.jpg)
 ## Content : 
