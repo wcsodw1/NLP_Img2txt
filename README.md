@@ -14,30 +14,30 @@ The practical apply in NLP image turn to text
 
 ### 1.PDF to text 
 - Program : 
-    - [PyPDF2 CV PDF](./PyPDF2_PDF2txt.py)
-    - [PyPDF2 Alibaba PDF](./PyPDF2_PDF2txt.py)
-    - [PDFMiner CV PDF ](./PDFMiner_PDF2txt.py)
+    - [PyPDF2 CV PDF](./01_PDFtext2txt_csv/PYPDF2.py)
+    - [PyPDF2 Alibaba PDF](./01_PDFtext2txt_csv/PYPDF2.py)
+    - [PDFMiner CV PDF ](./01_PDFtext2txt_csv/PDFMiner.py)
 
 - Result : 
-    - [PDFMiner CV PDF txt](./data/Wizpresso/output/PDFMiner_20221129CV.txt)
-    - [PyPDF2 CV PDF txt](./data/Wizpresso/output/PyPDF2_20221129CV.txt)
+    - [PDFMiner CV PDF txt](./data/testing/output/PDFMiner_20221129CV.txt)
+    - [PyPDF2 CV PDF txt](./data/testing/output/PyPDF2_20221129CV.txt)
     - [PyPDF2 Alibaba PDF txt](./data/Wizpresso/output/PyPDF2_file.txt)
 
 ### 2.Devide Paragraph : 
-    - [PyPDF2 Devide_Paragrph](./Devide_Paragraph.py)
+    - [PyPDF2 Devide_Paragrph](./02_Paragraph_Devide/PyPDF2_pdfplumber.py)
 
 ### 3.Attachment 
-    - [PyPDF2 CV PDF attachment](./PyPDF2_attachment.txt)
-    - [PyPDF2 CV PDF attachment](./data/Wizpresso/output/PyPDF2_attachment.txt)
+    - [Program : PyPDF2 CV PDF](./03_Attachment/PyPDF2_attachment.py)
+    - [Result : PyPDF2 CV PDF](./data/testing/output/PyPDF2_attachment.txt)
 
 ### 4.Encrypt/Decrypte PDF with customize Password
 - Program : 
-    - [PyPDF2 encrypt PDF](./PyPDF2_encryptPDF.py)
-    - [PyPDF2 Decrypt PDF](./PyPDF2_DecryptPDF.py)
+    - [PyPDF2 encrypt PDF](./04_Crypt/PyPDF2_encryptPDF.py)
+    - [PyPDF2 Decrypt PDF](./04_Crypt/PyPDF2_DecryptPDF.py)
 
 - Result : 
-    - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Encrypt_David_CV.pdf) #Password : 820224
-    - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Decrypt_David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/testing/output/Encrypt_David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/testing/output/Decrypt_David_CV.pdf) #Password : 820224
 
 ### Reference
 - [PyPDF2 Document](https://pypdf2.readthedocs.io/en/latest/) <br>
