@@ -1,6 +1,12 @@
 # NLP_Img2txt
 The practical apply in NLP image turn to text
 
+## Content : 
+- 1.Extract text form PDF(01)
+- 2.Devide Paragraph(02)
+- 3.Attachment(03)
+- 4.Crypt(04)
+
 ## 1.PyPDF2 & PDFMiner: 
 - $pip install PyPDF2 (pip install PyPDF2[crypto] : For crypto)
 - $pip install pdfminer
