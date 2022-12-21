@@ -36,8 +36,8 @@ The practical apply in NLP image turn to text
     - [PyPDF2 Decrypt PDF](./04_Crypt/PyPDF2_DecryptPDF.py)
 
 - Result : 
-    - [PyPDF2 encrypt PDF Result](./data/testing/output/Encrypt_David_CV.pdf) #Password : 820224
-    - [PyPDF2 encrypt PDF Result](./data/testing/output/Decrypt_David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/testing/output/03_Encrypt_David_CV.pdf) #Password : 820224
+    - [PyPDF2 encrypt PDF Result](./data/testing/output/03_Decrypt_David_CV.pdf) #Password : 820224
 
 ### Reference
 - [PyPDF2 Document](https://pypdf2.readthedocs.io/en/latest/) <br>
