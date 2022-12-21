@@ -33,7 +33,8 @@ The practical apply in NLP image turn to text
     - [PyPDF2 Devide_Paragrph](./Devide_Paragraph.py)
 
 ### Reference
+- [PyPDF2 Document](https://pypdf2.readthedocs.io/en/latest/) <br>
 - [PyPDF2 Apply](https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python) <br>
-- [PDFMiner Document](https://pdfminer-docs.readthedocs.io/programming.html#performing-layout-analysis) <br>
 - [PyPDF2 PDF Annotations](https://pypdf2.readthedocs.io/en/latest/user/reading-pdf-annotations.html) <br>
 - [Devide Paragraph by Python re](https://docs.python.org/zh-tw/3.8/library/re.html)
+- [PDFMiner Document](https://pdfminer-docs.readthedocs.io/programming.html#performing-layout-analysis) <br>
