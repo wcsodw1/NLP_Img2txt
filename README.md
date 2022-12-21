@@ -1,7 +1,7 @@
 # NLP_Img2txt
 The practical apply in NLP image turn to text
 
-[NLP](./data/NLP.jpg)
+![NLP](./data/NLP.jpg)
 ## Content : 
 - 1.Extract text form PDF(01)
 - 2.Devide Paragraph(02)
