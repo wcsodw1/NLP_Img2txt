@@ -1,9 +1,9 @@
-# python PyPDF2_Devide_Paragrph.py
+# python PyPDF2_pdfplumber.py
 
 import re
 import pdfplumber
 
-file_path = "./data/US_Declaration.pdf"
+file_path = "../data/testing/input/US_Declaration.pdf"
 pdf = pdfplumber.open(file_path)
 
 
@@ -15,11 +15,10 @@ patterns = '.\n'  # 關鍵在text取出的資料 如何做切分 (ex : '.\n  ', 
 paragraphs = text.split(patterns)
 # print(text)
 
-with open('./data/Wizpresso/output/Devide_Paragraph_US.txt', 'a', encoding='UTF-8') as f:
+with open('../data/testing/output/01_DevideParagraph_US.txt', 'a', encoding='UTF-8') as f:
 
     for num, paragraph in enumerate(paragraphs):
         print('paragraph:', num)
-        print("")
         print('  ', paragraph.strip())
         f.write("paragraph : " + str(num))
         f.write(paragraph + "\n")

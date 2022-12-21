@@ -3,8 +3,12 @@
 import pandas as pd
 from PyPDF2 import PdfReader
 
-reader = PdfReader("./data/Wizpresso/input/20221129CV.pdf")
-txt_path = "./data/Wizpresso/output/PyPDF2_attachment.txt"
+reader = PdfReader("../data/testing/input/20221129CV.pdf")
+
+# save to .csv or .txt
+txt_path = "../data/testing/output/02_attachment_PyPDF2_20221129CV.csv" 
+# txt_path = "../data/testing/output/02_attachment_PyPDF2_20221129CV.txt"
+
 
 list_ = []
 for page in reader.pages:

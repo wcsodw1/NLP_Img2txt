@@ -1,5 +1,5 @@
 
-# python PyPDF2_encryptPDF.py -f './data/Wizpresso/input/20221129CV.pdf' -p "820224" -o './data/Wizpresso/output/Encrypt_David_CV.pdf'
+# python PyPDF2_DecryptPDF.py -f '../data/testing/input/Encrypt_David_CV.pdf' -p "820224" -o '../data/testing/output/03_Decrypt_David_CV.pdf'
 
 
 import argparse
@@ -20,12 +20,12 @@ reader = PdfReader(args["file_PDF"])
 writer = PdfWriter()
 
 
+if reader.is_encrypted:
+    reader.decrypt(args["Password"])
+
 # Add all pages to the writer
 for page in reader.pages:
     writer.add_page(page)
-
-# Add a password to the new PDF
-writer.encrypt(args["Password"])
 
 # Save the new PDF to a file
 with open(args["output_txt"], "wb") as f:
