@@ -3,7 +3,7 @@ The practical apply in NLP image turn to text
 
 ## 1.PyPDF2 & PDFMiner: 
 - $pip install PyPDF2 (pip install PyPDF2[crypto] : For crypto)
-- $pip install pdfminer 
+- $pip install pdfminer
 
 ## 2.PDF to text 
 - Program : 
@@ -29,7 +29,11 @@ The practical apply in NLP image turn to text
     - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Encrypt_David_CV.pdf) #Password : 820224
     - [PyPDF2 encrypt PDF Result](./data/Wizpresso/output/Decrypt_David_CV.pdf) #Password : 820224
 
-### 4. Reference
+### 4.Devide Paragraph : 
+    - [PyPDF2 Devide_Paragrph](./Devide_Paragraph.py)
+
+### Reference
 - [PyPDF2 Apply](https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python) <br>
 - [PDFMiner Document](https://pdfminer-docs.readthedocs.io/programming.html#performing-layout-analysis) <br>
-- [PyPDF2 Extract Image](https://pypdf2.readthedocs.io/en/latest/user/extract-images.html)
+- [PyPDF2 PDF Annotations](https://pypdf2.readthedocs.io/en/latest/user/reading-pdf-annotations.html) <br>
+- [Devide Paragraph by Python re](https://docs.python.org/zh-tw/3.8/library/re.html)
