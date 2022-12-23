@@ -1,5 +1,5 @@
 
-# python english2chinese.py -img_e "./img/ENGLISH.png"
+# python english2chinese.py -img_e "../data/testing/img/CV_0.png" -o "../data/testing/output/CV_0.txt"
 
 # 其他語言包要另外下載 網址 : https://github.com/tesseract-ocr/tessdata
 # 中文包要另外下載(chi_tra.traineddata)
@@ -18,6 +18,8 @@ pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesserac
 ap = argparse.ArgumentParser()
 ap.add_argument("-img_e", "--image_english",
                 required=True, help="The Path to image")
+ap.add_argument("-o", "--output_txt",
+                required=True, help="The (.txt) output path")
 args = vars(ap.parse_args())
 image_eng = cv2.imread(args["image_english"])
 
@@ -26,5 +28,5 @@ image_eng = cv2.imread(args["image_english"])
 print("#========= 3.English Image convert to Word =========#")
 eng_text = pytesseract.image_to_string(image_eng, lang='eng')
 print(eng_text)
-with open("./output/english.txt", "w", encoding='UTF-8') as text_file:
+with open(args["output_txt"], "w", encoding='UTF-8') as text_file:
     text_file.write(eng_text)

@@ -1,0 +1,100 @@
+CONTACTS Shou-Wei, Lin
+wcsodw1@gmail.com
+Github
+
+Linkin
+
+SKILL
+Language : Python | Go |
+CoH | < AI - ML/DL, Data Engineer with Computer Vision, 4 years
+DB : SQL | MySQL |
+WE Va eID) om \U Cope texey DJ om
+Server : (Click)
+Version Control : GITHUB
+| GITLAB |
+OS : Linux | UBUNTU | WSL
+Container : Docker
+Front-End : HTML | CSS |
+EWE oat olen mere (onc
+GPU : GTX1660
+Web Framework: Flask |
+
+professional experience in software development. Skilled in
+Python, C++, Golang and various Machine& deep Learning
+frameworks. A highly motivated individual, ready to challenge
+myself and quickly adapt to new environments, and to deliver
+best-in-class solutions to problems at hand. A strategic
+communicator who is ready to join the organization where my
+
+expertise will be put into action.
+
+2021-2022 MarTech
+%  AdGeek
+
+ID EVerexon|
+% Al & Data Analyze Engineer
+Web Crwaler :
+
+To Optimize the “Precision-marketing” system, by using Facebook &
+Beautiful Soup | Seledium |
+
+Google API get data, and using Data-Analyze, Machine Learning
+Request |
+
+algorithm technics to robust system predict ads condition, helping
+
+keep execute ads or not.
+
+AI | Data Analyze
+
+Framework : Tensorflow |
+
+“% Key Performance: Increasing over 28% customer using our
+Service.
+
+“% Project:
+
+>  Data-Analyze Market-Strategy by Facebook(Meta)
+Backstage-Data
+
+Pytorch | Keras | Caffe
+Visualize :
+
+Python : Matplotlib |
+Seaborn |
+
+AI : ToolNetron | Netscope
+2020-2021 Embedding-Tech
+
+“% AVER Tech.
+% AI & Computer Vision algorithm Engineer
+
+Data : PowerBI |
+Python :
+
+Pandas | Numpy
+
+_ Research and Integrate computer vision Deep-Learning Model into
+Scikit-Learn | Scipy |
+
+our product(camera).Robust the product function, provide different
+
+_ . solution proposals for the customer.
+Qualification I
+
+“% Key Performance: Increasing 22% of sales in next season(0Q3).
+English : TOEIC Green y Perf g 22% of (Q3)
+
+“% Project:
+License
+
+>  Pose-Estimated
+GEPT : Medium-Standard
+
+> Face Recognition
+Data Analyze Expert :
+
+Udemy Course
+
+ 
+
